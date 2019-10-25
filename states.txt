@@ -1,0 +1,51 @@
+State          | Abbreviation | Statehood Year | Capital        | Capital since
+Alabama        | AL           | 1819           | Montgomery     | 1846
+Alaska         | AK           | 1959           | Juneau         | 1906
+Arizona        | AZ           | 1912           | Phoenix        | 1889
+Arkansas       | AR           | 1836           | Little Rock    | 1821
+California     | CA           | 1850           | Sacramento     | 1854
+Colorado       | CO           | 1876           | Denver         | 1867
+Connecticut    | CT           | 1788           | Hartford       | 1875
+Delaware       | DE           | 1787           | Dover          | 1777
+Florida        | FL           | 1845           | Tallahassee    | 1824
+Georgia        | GA           | 1788           | Atlanta        | 1868
+Hawaii         | HI           | 1959           | Honolulu       | 1845
+Idaho          | ID           | 1890           | Boise          | 1865
+Illinois       | IL           | 1818           | Springfield    | 1837
+Indiana        | IN           | 1816           | Indianapolis   | 1825
+Iowa           | IA           | 1846           | Des Moines     | 1857
+Kansas         | KS           | 1861           | Topeka         | 1856
+Kentucky       | KY           | 1792           | Frankfort      | 1792
+Louisiana      | LA           | 1812           | Baton Rouge    | 1880
+Maine          | ME           | 1820           | Augusta        | 1832
+Maryland       | MD           | 1788           | Annapolis      | 1694
+Massachusetts  | MA           | 1788           | Boston         | 1630
+Michigan       | MI           | 1837           | Lansing        | 1847
+Minnesota      | MN           | 1858           | Saint Paul     | 1849
+Mississippi    | MS           | 1817           | Jackson        | 1821
+Missouri       | MO           | 1821           | Jefferson City | 1826
+Montana        | MT           | 1889           | Helena         | 1875
+Nebraska       | NE           | 1867           | Lincoln        | 1867
+Nevada         | NV           | 1864           | Carson City    | 1861
+New Hampshire  | NH           | 1788           | Concord        | 1808
+New Jersey     | NJ           | 1787           | Trenton        | 1784
+New Mexico     | NM           | 1912           | Santa Fe       | 1610
+New York       | NY           | 1788           | Albany         | 1797
+North Carolina | NC           | 1789           | Raleigh        | 1792
+North Dakota   | ND           | 1889           | Bismarck       | 1883
+Ohio           | OH           | 1803           | Columbus       | 1816
+Oklahoma       | OK           | 1907           | Oklahoma City  | 1910
+Oregon         | OR           | 1859           | Salem          | 1855
+Pennsylvania   | PA           | 1787           | Harrisburg     | 1812
+Rhode Island   | RI           | 1790           | Providence     | 1900
+South Carolina | SC           | 1788           | Columbia       | 1786
+South Dakota   | SD           | 1889           | Pierre         | 1889
+Tennessee      | TN           | 1796           | Nashville      | 1826
+Texas          | TX           | 1845           | Austin         | 1839
+Utah           | UT           | 1896           | Salt Lake City | 1858
+Vermont        | VT           | 1791           | Montpelier     | 1805
+Virginia       | VA           | 1788           | Richmond       | 1780
+Washington     | WA           | 1889           | Olympia        | 1853
+West Virginia  | WV           | 1863           | Charleston     | 1885
+Wisconsin      | WI           | 1848           | Madison        | 1838
+Wyoming        | WY           | 1890           | Cheyenne       | 1869
