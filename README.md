@@ -1,5 +1,5 @@
 # Linux Terminal Tools
-Enhanced version of slides and data for the tutorial given at LISA 19.
+Enhanced version of slides and data for the tutorial given at LISA in October 2019.
 
 # Topics Include
  - basics
