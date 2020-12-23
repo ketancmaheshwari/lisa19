@@ -11,3 +11,10 @@ Enhanced version of slides and data for the tutorial given at LISA in October 20
  - gnupg
  - programming environments
  - miscellaneous
+
+# Russian Translation
+Some of this work translated in Russian is available:
+
+https://tproger.ru/translations/instrumenty-terminala-linux-pervaja-chast
+
+https://tproger.ru/translations/instrumenty-terminala-linux-vtoraja-chast
