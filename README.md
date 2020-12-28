@@ -18,3 +18,5 @@ Some of this work translated in Russian is available:
 https://tproger.ru/translations/instrumenty-terminala-linux-pervaja-chast
 
 https://tproger.ru/translations/instrumenty-terminala-linux-vtoraja-chast
+
+https://tproger.ru/translations/instrumenty-terminala-linux-tretja-chast
