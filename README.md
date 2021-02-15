@@ -13,7 +13,7 @@ Enhanced version of slides and data for the tutorial given at LISA in October 20
  - miscellaneous
 
 # Russian Translation
-Some of this work translated in Russian is available:
+Some of this work translated in Russian:
 
 https://tproger.ru/translations/instrumenty-terminala-linux-pervaja-chast
 
