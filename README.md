@@ -3,6 +3,8 @@ Enhanced version of slides and data for the tutorial given at LISA in October 20
 
 This was discussed some at [Hacker News](https://news.ycombinator.com/item?id=23229241).
 
+[PDF slides](https://github.com/ketancmaheshwari/lisa19/blob/master/LPT_LISA.pdf)
+
 # Topics Include
  - basics
  - bash keyboard shortcuts
