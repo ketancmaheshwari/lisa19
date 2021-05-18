@@ -1,3 +1,8 @@
 == Solutions to exercises ==
 
 egrep "M[uo]'?ammar ([aA]l-)?[KGQ]ad[dh]afi" input.txt
+
+Simplify:
+TOKEN=$(kubectl describe secret -n kube-system $(kubectl get secrets -n kube-system | grep default | cut -f1 -d ' ') | grep -E '^token' | cut -f2 -d':' | tr -d '\t' | tr -d " ")
+Soln:
+TOKEN=$(kubectl describe secret -n kube-system $(kubectl get secrets -n kube-system | 'awk /default/{print $1}') | awk -F: '/^token/{gsub(/ /,"",$2); gsub(\t,"",$2); print $2}' | tr -d '\t' | tr -d " ")
