@@ -1,7 +1,7 @@
 # Linux Terminal Tools
 Enhanced version of slides and data for the tutorial given at LISA in October 2019.
 
-This was discussed some at [Hacker News](https://news.ycombinator.com/item?id=23229241).
+A previous version of the slides were discussed some at [Hacker News](https://news.ycombinator.com/item?id=23229241).
 
 [PDF slides](https://github.com/ketancmaheshwari/lisa19/blob/master/LPT_LISA.pdf)
 
